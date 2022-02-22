@@ -6,6 +6,6 @@ Install as a dev dependency on a particular project:
 
 yarn add -D node-cli-
 npx node-cli-
-Install globally(recommended if you are using typescript very often):
 
+Install globally: 
 yarn global add node-cli-
